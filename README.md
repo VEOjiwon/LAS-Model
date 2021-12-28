@@ -1,6 +1,7 @@
 # LAS-Model
 Train LAS-model using Korean language data
-WER 30%
+
+Achieve : LER 30%
 
 Used Data : https://aihub.or.kr/aidata/30703 
 
